@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W8722
   title: ཨ་བསེའི་བྱུང་ཁུངས་ལོ་རྒྱུས་མདོ་ཙམ་བརྗོད་པ
-  volume: ''
+  volume:
+    db112e7fb59646e0b110d7ce072e4c76:
+      image_group_id: I1GS105577
+      title: Volume 1 of a bse'i byung khungs lo rgyus mdo tsam brjod pa
+      volume_number: 1
+      total_pages: 36
   author: ''
+ebook_metadata:
+  title: ཨ་བསེའི་བྱུང་ཁུངས་ལོ་རྒྱུས་མདོ་ཙམ་བརྗོད་པ
+  author: ''
+  sku: P000352
+  cover: cover.jpg
+  layers:
+  - pagination
